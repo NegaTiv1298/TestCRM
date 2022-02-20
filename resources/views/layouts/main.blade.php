@@ -165,16 +165,16 @@
 
 {{--        <a href="node_modules/admin-lte/index3.html" class="brand-link">--}}
 
-            <img src="node_modules/admin-lte/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
-                 style="opacity: .8">
-            <span class="brand-text font-weight-light">AdminLTE 3</span>
+            <img src="https://i.pinimg.com/736x/de/a0/f3/dea0f3b7f480b1151c08db4a402a43b9.jpg" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
+                 style="opacity: .8; width: 100px; height: 100px">
+            <span class="brand-text font-weight-light" style="color: #00c054">AdminLTE 3</span>
         </a>
 
         <div class="sidebar">
 
             <div class="user-panel mt-3 pb-3 mb-3 d-flex">
                 <div class="image">
-                    <img src="dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
+                    <img src="https://static-s.aa-cdn.net/img/amazon/30600000108810/15f774582ba7b5b6563bbf3220c50c2a?v=1" class="img-circle elevation-2" alt="User Image">
                 </div>
             </div>
 
